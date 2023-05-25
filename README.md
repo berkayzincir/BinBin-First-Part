@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+# BinBin dApp First Part
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This project is includes written in Solidity of my BinBin dApp for Patika.
+Also this is my smart contract address on BNB Chain Testnet https://testnet.bscscan.com/address/0x2ae0b0df1ad5f55dceafb42fd360907c822d11c2
